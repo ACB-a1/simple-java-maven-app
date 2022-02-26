@@ -1,5 +1,9 @@
 # simple-java-maven-app
 
+* Build Status
+
+[![Build Status](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-package)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-package/)
+
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
