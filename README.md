@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 
-ADDING NEW TEST FOR SYNCING - and more
+ADDING NEW TEST FOR SYNCING - and more  -- New add
