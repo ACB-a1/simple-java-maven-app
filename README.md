@@ -1,4 +1,4 @@
-# simple-java-maven-app
+# simple-java-maven-app 
 
 
 * Worker Status [![Build Status](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-package)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-package/)
