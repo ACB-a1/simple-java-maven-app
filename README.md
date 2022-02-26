@@ -1,12 +1,16 @@
 # simple-java-maven-app
 
-* Build Status
+* Worker Status
 
 [![Build Status](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-package)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-package/)
 
+* Worker Build
+
 [![Build Status](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-build)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-build/)
 
-[![Build Status](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-test)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-test/)
+* Worker Test
+
+[![Worker Test](http://34.142.123.26:8080/buildStatus/icon?job=simple-java-maven-app%2Fworker-test)](http://34.142.123.26:8080/job/simple-java-maven-app/job/worker-test/)
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
